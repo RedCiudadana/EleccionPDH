@@ -1,0 +1,50 @@
+[
+  {
+    "perfil": "ovidio-orellana",
+    "section": "Información general",
+    "title": "¿Cómo ve el tema de la violencia?",
+    "quote": "\"Yo he visto que la violencia se ha reducido en un 50%\"",
+    "fact": "Los medios indican A",
+    "source": "Red Ciudadana"
+  },
+  {
+    "perfil": "ovidio-orellana",
+    "section": "Información general",
+    "title": "¿Cómo ve el tema de la violencia?",
+    "quote": "La violencia se ha reducido en un 70%",
+    "fact": "Los medios indican B",
+    "source": "Red Ciudadana"
+  },
+  {
+    "perfil": "ovidio-orellana",
+    "section": "Educación",
+    "title": "¿Cómo ve el tema de la violencia?",
+    "quote": "La violencia se ha reducido en un 90%",
+    "fact": "Los medios indican C",
+    "source": "Red Ciudadana"
+  },
+  {
+    "perfil": "luis-fernando-ruiz",
+    "section": "Información general",
+    "title": "¿Cómo ve el tema de la violencia?",
+    "quote": "La violencia se ha reducido en un 91%",
+    "fact": "Los medios indican D",
+    "source": "Red Ciudadana"
+  },
+  {
+    "perfil": "alejandro-balsells",
+    "section": "Información general",
+    "title": "¿Cómo ve el tema de la violencia?",
+    "quote": "La violencia se ha reducido en un 92%",
+    "fact": "Los medios indican E",
+    "source": "Red Ciudadana"
+  },
+  {
+    "perfil": "joaquin-medina",
+    "section": "Información general",
+    "title": "¿Cómo ve el tema de la violencia?",
+    "quote": "La violencia se ha reducido en un 93%",
+    "fact": "Los medios indican F",
+    "source": "Red Ciudadana"
+  }
+]

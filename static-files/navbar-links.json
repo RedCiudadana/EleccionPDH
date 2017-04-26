@@ -1,0 +1,22 @@
+[
+  {
+    "route": "institucion",
+    "title": "PDH"
+  },
+  {
+    "route": "perfiles",
+    "title": "Aspirantes"
+  },
+  {
+    "route": "perfiles",
+    "title": "Comision DH"
+  },
+  {
+    "route": "resultados",
+    "title": "Tabla de Gradación"
+  },
+  {
+    "route": "metodologia",
+    "title": "Metodología"
+  }
+]

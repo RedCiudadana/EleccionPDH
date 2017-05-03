@@ -232,9 +232,9 @@ strong {
 }
 
 .btn-success {
-	background-color: #3ee0cb;
+	// background-color: #3ee0cb;
 	border-color: transparent;
-	float: right;
+	// float: right;
 }
 
 .btn-success:hover {

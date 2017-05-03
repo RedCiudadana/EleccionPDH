@@ -1,82 +1,102 @@
 [
   {
-    "perfil": "ovidio-orellana",
+    "perfil": "candidato1",
     "aspecto": "Aspectos Profesionales",
-    "puntaje": ""
+    "puntaje": "5"
   },
   {
-    "perfil": "ovidio-orellana",
+    "perfil": "candidato1",
     "aspecto": "Aspectos Académicos",
-    "puntaje": ""
+    "puntaje": "7"
   },
   {
-    "perfil": "ovidio-orellana",
+    "perfil": "candidato1",
     "aspecto": "Cualidades Éticas y de Probidad",
-    "puntaje": ""
+    "puntaje": "8"
   },
   {
-    "perfil": "ovidio-orellana",
+    "perfil": "candidato1",
     "aspecto": "Proyección Humana E Idoneidad",
-    "puntaje": ""
+    "puntaje": "5"
   },
   {
-    "perfil": "luis-fernando-ruiz",
+    "perfil": "candidato1",
+    "aspecto": "Total",
+    "puntaje": "25"
+  },
+  {
+    "perfil": "candidato2",
     "aspecto": "Aspectos Profesionales",
-    "puntaje": ""
+    "puntaje": "1"
   },
   {
-    "perfil": "luis-fernando-ruiz",
+    "perfil": "candidato2",
     "aspecto": "Aspectos Académicos",
-    "puntaje": ""
+    "puntaje": "5"
   },
   {
-    "perfil": "luis-fernando-ruiz",
+    "perfil": "candidato2",
     "aspecto": "Cualidades Éticas y de Probidad",
-    "puntaje": ""
+    "puntaje": "8"
   },
   {
-    "perfil": "luis-fernando-ruiz",
+    "perfil": "candidato2",
     "aspecto": "Proyección Humana E Idoneidad",
-    "puntaje": ""
+    "puntaje": "10"
   },
   {
-    "perfil": "alejandro-balsells",
+    "perfil": "candidato2",
+    "aspecto": "Total",
+    "puntaje": "24"
+  },
+  {
+    "perfil": "candidato3",
     "aspecto": "Aspectos Profesionales",
-    "puntaje": ""
+    "puntaje": "8"
   },
   {
-    "perfil": "alejandro-balsells",
+    "perfil": "candidato3",
     "aspecto": "Aspectos Académicos",
-    "puntaje": ""
+    "puntaje": "5"
   },
   {
-    "perfil": "alejandro-balsells",
+    "perfil": "candidato3",
     "aspecto": "Cualidades Éticas y de Probidad",
-    "puntaje": ""
+    "puntaje": "9"
   },
   {
-    "perfil": "alejandro-balsells",
+    "perfil": "candidato3",
     "aspecto": "Proyección Humana E Idoneidad",
-    "puntaje": ""
+    "puntaje": "7"
   },
   {
-    "perfil": "joaquin-medina",
+    "perfil": "candidato 3",
+    "aspecto": "Total",
+    "puntaje": "29"
+  },
+  {
+    "perfil": "candidato4",
     "aspecto": "Aspectos Profesionales",
-    "puntaje": ""
+    "puntaje": "2"
   },
   {
-    "perfil": "joaquin-medina",
+    "perfil": "candidato4",
     "aspecto": "Aspectos Académicos",
-    "puntaje": ""
+    "puntaje": "4"
   },
   {
-    "perfil": "joaquin-medina",
+    "perfil": "candidato4",
     "aspecto": "Cualidades Éticas y de Probidad",
-    "puntaje": ""
+    "puntaje": "8"
   },
   {
-    "perfil": "joaquin-medina",
+    "perfil": "candidato4",
     "aspecto": "Proyección Humana E Idoneidad",
-    "puntaje": ""
+    "puntaje": "3"
+  },
+  {
+    "perfil": "candidato4",
+    "aspecto": "Total",
+    "puntaje": "17"
   }
 ]

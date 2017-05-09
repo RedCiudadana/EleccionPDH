@@ -1,12 +1,50 @@
 [
   {
     "perfil": "candidato1",
-    "nombreDocumento": "Biografía",
-    "urlDocumento": ""
+    "nombreDocumento": "Biografía (ODT)",
+    "urlDocumento": "https://es.wikipedia.org/wiki/Datos_abiertos",
+    "cssClasses": "success"
   },
   {
     "perfil": "candidato2",
-    "nombreDocumento": "Biografía",
-    "urlDocumento": ""
+    "nombreDocumento": "Biografía (ODT)",
+    "urlDocumento": "https://es.wikipedia.org/wiki/Datos_abiertos",
+    "cssClasses": "success"
+  },
+  {
+    "perfil": "candidato1",
+    "nombreDocumento": "Experiencia profesional (ODT)",
+    "urlDocumento": "https://es.wikipedia.org/wiki/Datos_abiertos",
+    "cssClasses": "warning"
+  },
+  {
+    "perfil": "candidato2",
+    "nombreDocumento": "Experiencia profesional (ODT)",
+    "urlDocumento": "https://es.wikipedia.org/wiki/Datos_abiertos",
+    "cssClasses": "warning"
+  },
+  {
+    "perfil": "candidato1",
+    "nombreDocumento": "Tabla de gradación (CSV)",
+    "urlDocumento": "https://es.wikipedia.org/wiki/Datos_abiertos",
+    "cssClasses": "danger"
+  },
+  {
+    "perfil": "candidato2",
+    "nombreDocumento": "Tabla de gradación (CSV)",
+    "urlDocumento": "https://es.wikipedia.org/wiki/Datos_abiertos",
+    "cssClasses": "danger"
+  },
+  {
+    "perfil": "candidato1",
+    "nombreDocumento": "Expediente (ZIP)",
+    "urlDocumento": "https://es.wikipedia.org/wiki/Datos_abiertos",
+    "cssClasses": "primary"
+  },
+  {
+    "perfil": "candidato2",
+    "nombreDocumento": "Expediente (ZIP)",
+    "urlDocumento": "https://es.wikipedia.org/wiki/Datos_abiertos",
+    "cssClasses": "primary"
   }
 ]

@@ -1,27 +1,12 @@
 [
   {
-    "field": "tagUno",
-    "label": "Experiencia en Derechos Humanos",
-    "section": "Experiencia en Derechos Humanos"
+    "field": "experienciaProfesional",
+    "label": "",
+    "section": "Experiencia profesional"
   },
   {
-    "field": "tagUno",
-    "label": "Experiencia Profesional",
+    "field": "experienciaEnDH",
+    "label": "",
     "section": "Experiencia en Derechos Humanos"
-  },
-  {
-    "field": "tagUno",
-    "label": "Experiencia Academica",
-    "section": "Experiencia en Derechos Humanos"
-  },
-  {
-    "field": "tagDos",
-    "label": "Experiencia en DH",
-    "section": "Experiencia en Derechos Humanos"
-  },
-  {
-    "field": "biografia",
-    "label": "Resultados",
-    "section": "Tabla de Gradación"
   }
 ]

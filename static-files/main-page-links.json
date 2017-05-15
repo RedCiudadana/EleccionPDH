@@ -12,9 +12,9 @@
     "imageLink": "https://raw.githubusercontent.com/RedCiudadana/Recursos-PDH/master/Web/elementos/comision.jpg"
   },
   {
-    "route": "institucion",
+    "route": "",
     "title": "Justicia Abierta",
-    "link": "",
+    "link": "http://www.justicia-abierta.org/",
     "imageLink": "https://raw.githubusercontent.com/RedCiudadana/Recursos-PDH/master/Web/elementos/justicia.jpg"
   }
 ]

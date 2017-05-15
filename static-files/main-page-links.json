@@ -1,20 +1,20 @@
 [
   {
-    "route": "metodologia",
+    "route": "perfiles",
     "title": "Elección Procurador Derechos Humanos",
     "link": "",
-    "imageLink": "http://vi-gt2015.s3.amazonaws.com/img/frente_a_frente.jpg"
+    "imageLink": "https://raw.githubusercontent.com/RedCiudadana/Recursos-PDH/master/Web/elementos/candidatos.jpg"
   },
   {
-    "route": "perfiles",
+    "route": "comision",
     "title": "Comisión de Derechos Humanos del Congreso de Guatemala",
     "link": "",
-    "imageLink": "http://vi-gt2015.s3.amazonaws.com/img/cuestionario.jpg"
+    "imageLink": "https://raw.githubusercontent.com/RedCiudadana/Recursos-PDH/master/Web/elementos/comision.jpg"
   },
   {
     "route": "institucion",
-    "title": "Frente a Frente",
+    "title": "Justicia Abierta",
     "link": "",
-    "imageLink": "http://vi-gt2015.s3.amazonaws.com/img/donde_voto.jpg"
+    "imageLink": "https://raw.githubusercontent.com/RedCiudadana/Recursos-PDH/master/Web/elementos/justicia.jpg"
   }
 ]

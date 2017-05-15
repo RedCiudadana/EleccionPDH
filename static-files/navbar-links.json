@@ -1,11 +1,7 @@
 [
   {
-    "route": "institucion",
-    "title": "PDH"
-  },
-  {
     "route": "perfiles",
-    "title": "Aspirantes"
+    "title": "Candidatos"
   },
   {
     "route": "comision",

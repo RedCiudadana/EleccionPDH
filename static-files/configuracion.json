@@ -1,12 +1,12 @@
 [
   {
     "key": "logoUrl",
-    "value": "https://raw.githubusercontent.com/RedCiudadana/Recursos-PDH/master/Multimedia/Web/JusticiaAbierta.png",
+    "value": "https://raw.githubusercontent.com/RedCiudadana/Recursos-PDH/master/Web/elementos/logo.png",
     "tags": ""
   },
   {
     "key": "logoTitle",
-    "value": "Justicia Abierta",
+    "value": "Elección PDH",
     "tags": ""
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "key": "facebookShareLink",
-    "value": "//www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fjusticia-abierta.org",
+    "value": "//www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Feleccionpdh.org",
     "tags": ""
   },
   {
@@ -31,12 +31,12 @@
   },
   {
     "key": "banner1Title",
-    "value": "<h3 class=\"portada\" style=\"text-align: center;\">Justicia Abierta</h3>",
+    "value": "<h3 class=\"portada\" style=\"text-align: center;\">Elección PDH</h3>",
     "tags": ""
   },
   {
     "key": "banner1Footer",
-    "value": "<p style=\"text-align: center; margin: 20px; font-size: 18px;\">Justicia Abierta nace como un esfuerzo de diversas organizaciones de sociedad civil para desarrollar plataformas y herramientas que transparenten el proceso de Justicia de Guatemala</p>",
+    "value": "<br></br>",
     "tags": ""
   },
   {

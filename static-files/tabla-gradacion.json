@@ -1,777 +1,777 @@
 [
   {
     "perfil": "candidato1",
-    "aspecto": "Aspectos Profesionales",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato1",
     "aspecto": "Aspectos Académicos",
-    "puntaje": "0"
+    "puntaje": "24"
   },
   {
     "perfil": "candidato1",
-    "aspecto": "Cualidades Éticas y de Probidad",
-    "puntaje": "0"
+    "aspecto": "Aspectos Profesionales",
+    "puntaje": "59.5"
   },
   {
     "perfil": "candidato1",
     "aspecto": "Proyección Humana E Idoneidad",
-    "puntaje": "0"
+    "puntaje": "9.83"
+  },
+  {
+    "perfil": "candidato1",
+    "aspecto": "Cualidades Éticas y de Probidad",
+    "puntaje": "100"
   },
   {
     "perfil": "candidato1",
     "aspecto": "Total",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato2",
-    "aspecto": "Aspectos Profesionales",
-    "puntaje": "0"
+    "puntaje": "93.33"
   },
   {
     "perfil": "candidato2",
     "aspecto": "Aspectos Académicos",
-    "puntaje": "0"
+    "puntaje": "24"
+  },
+  {
+    "perfil": "candidato2",
+    "aspecto": "Aspectos Profesionales",
+    "puntaje": "59.5"
+  },
+  {
+    "perfil": "candidato2",
+    "aspecto": "Proyección Humana E Idoneidad",
+    "puntaje": "9.83"
   },
   {
     "perfil": "candidato2",
     "aspecto": "Cualidades Éticas y de Probidad",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato2",
-    "aspecto": "Proyección Humana E Idoneidad",
-    "puntaje": "0"
+    "puntaje": "100"
   },
   {
     "perfil": "candidato2",
     "aspecto": "Total",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato3",
-    "aspecto": "Aspectos Profesionales",
-    "puntaje": "0"
+    "puntaje": "93.33"
   },
   {
     "perfil": "candidato3",
     "aspecto": "Aspectos Académicos",
-    "puntaje": "0"
+    "puntaje": "24"
+  },
+  {
+    "perfil": "candidato3",
+    "aspecto": "Aspectos Profesionales",
+    "puntaje": "59.5"
+  },
+  {
+    "perfil": "candidato3",
+    "aspecto": "Proyección Humana E Idoneidad",
+    "puntaje": "9.83"
   },
   {
     "perfil": "candidato3",
     "aspecto": "Cualidades Éticas y de Probidad",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato3",
-    "aspecto": "Proyección Humana E Idoneidad",
-    "puntaje": "0"
+    "puntaje": "100"
   },
   {
     "perfil": "candidato3",
     "aspecto": "Total",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato4",
-    "aspecto": "Aspectos Profesionales",
-    "puntaje": "0"
+    "puntaje": "93.33"
   },
   {
     "perfil": "candidato4",
     "aspecto": "Aspectos Académicos",
-    "puntaje": "0"
+    "puntaje": "24"
+  },
+  {
+    "perfil": "candidato4",
+    "aspecto": "Aspectos Profesionales",
+    "puntaje": "59.5"
+  },
+  {
+    "perfil": "candidato4",
+    "aspecto": "Proyección Humana E Idoneidad",
+    "puntaje": "9.83"
   },
   {
     "perfil": "candidato4",
     "aspecto": "Cualidades Éticas y de Probidad",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato4",
-    "aspecto": "Proyección Humana E Idoneidad",
-    "puntaje": "0"
+    "puntaje": "100"
   },
   {
     "perfil": "candidato4",
     "aspecto": "Total",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato5",
-    "aspecto": "Aspectos Profesionales",
-    "puntaje": "0"
+    "puntaje": "93.33"
   },
   {
     "perfil": "candidato5",
     "aspecto": "Aspectos Académicos",
-    "puntaje": "0"
+    "puntaje": "24"
+  },
+  {
+    "perfil": "candidato5",
+    "aspecto": "Aspectos Profesionales",
+    "puntaje": "59.5"
+  },
+  {
+    "perfil": "candidato5",
+    "aspecto": "Proyección Humana E Idoneidad",
+    "puntaje": "9.83"
   },
   {
     "perfil": "candidato5",
     "aspecto": "Cualidades Éticas y de Probidad",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato5",
-    "aspecto": "Proyección Humana E Idoneidad",
-    "puntaje": "0"
+    "puntaje": "100"
   },
   {
     "perfil": "candidato5",
     "aspecto": "Total",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato6",
-    "aspecto": "Aspectos Profesionales",
-    "puntaje": "0"
+    "puntaje": "93.33"
   },
   {
     "perfil": "candidato6",
     "aspecto": "Aspectos Académicos",
-    "puntaje": "0"
+    "puntaje": "24"
+  },
+  {
+    "perfil": "candidato6",
+    "aspecto": "Aspectos Profesionales",
+    "puntaje": "59.5"
+  },
+  {
+    "perfil": "candidato6",
+    "aspecto": "Proyección Humana E Idoneidad",
+    "puntaje": "9.83"
   },
   {
     "perfil": "candidato6",
     "aspecto": "Cualidades Éticas y de Probidad",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato6",
-    "aspecto": "Proyección Humana E Idoneidad",
-    "puntaje": "0"
+    "puntaje": "100"
   },
   {
     "perfil": "candidato6",
     "aspecto": "Total",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato7",
-    "aspecto": "Aspectos Profesionales",
-    "puntaje": "0"
+    "puntaje": "93.33"
   },
   {
     "perfil": "candidato7",
     "aspecto": "Aspectos Académicos",
-    "puntaje": "0"
+    "puntaje": "24"
+  },
+  {
+    "perfil": "candidato7",
+    "aspecto": "Aspectos Profesionales",
+    "puntaje": "59.5"
+  },
+  {
+    "perfil": "candidato7",
+    "aspecto": "Proyección Humana E Idoneidad",
+    "puntaje": "9.83"
   },
   {
     "perfil": "candidato7",
     "aspecto": "Cualidades Éticas y de Probidad",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato7",
-    "aspecto": "Proyección Humana E Idoneidad",
-    "puntaje": "0"
+    "puntaje": "100"
   },
   {
     "perfil": "candidato7",
     "aspecto": "Total",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato8",
-    "aspecto": "Aspectos Profesionales",
-    "puntaje": "0"
+    "puntaje": "93.33"
   },
   {
     "perfil": "candidato8",
     "aspecto": "Aspectos Académicos",
-    "puntaje": "0"
+    "puntaje": "24"
+  },
+  {
+    "perfil": "candidato8",
+    "aspecto": "Aspectos Profesionales",
+    "puntaje": "59.5"
+  },
+  {
+    "perfil": "candidato8",
+    "aspecto": "Proyección Humana E Idoneidad",
+    "puntaje": "9.83"
   },
   {
     "perfil": "candidato8",
     "aspecto": "Cualidades Éticas y de Probidad",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato8",
-    "aspecto": "Proyección Humana E Idoneidad",
-    "puntaje": "0"
+    "puntaje": "100"
   },
   {
     "perfil": "candidato8",
     "aspecto": "Total",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato9",
-    "aspecto": "Aspectos Profesionales",
-    "puntaje": "0"
+    "puntaje": "93.33"
   },
   {
     "perfil": "candidato9",
     "aspecto": "Aspectos Académicos",
-    "puntaje": "0"
+    "puntaje": "24"
+  },
+  {
+    "perfil": "candidato9",
+    "aspecto": "Aspectos Profesionales",
+    "puntaje": "59.5"
+  },
+  {
+    "perfil": "candidato9",
+    "aspecto": "Proyección Humana E Idoneidad",
+    "puntaje": "9.83"
   },
   {
     "perfil": "candidato9",
     "aspecto": "Cualidades Éticas y de Probidad",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato9",
-    "aspecto": "Proyección Humana E Idoneidad",
-    "puntaje": "0"
+    "puntaje": "100"
   },
   {
     "perfil": "candidato9",
     "aspecto": "Total",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato10",
-    "aspecto": "Aspectos Profesionales",
-    "puntaje": "0"
+    "puntaje": "93.33"
   },
   {
     "perfil": "candidato10",
     "aspecto": "Aspectos Académicos",
-    "puntaje": "0"
+    "puntaje": "24"
+  },
+  {
+    "perfil": "candidato10",
+    "aspecto": "Aspectos Profesionales",
+    "puntaje": "59.5"
+  },
+  {
+    "perfil": "candidato10",
+    "aspecto": "Proyección Humana E Idoneidad",
+    "puntaje": "9.83"
   },
   {
     "perfil": "candidato10",
     "aspecto": "Cualidades Éticas y de Probidad",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato10",
-    "aspecto": "Proyección Humana E Idoneidad",
-    "puntaje": "0"
+    "puntaje": "100"
   },
   {
     "perfil": "candidato10",
     "aspecto": "Total",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato11",
-    "aspecto": "Aspectos Profesionales",
-    "puntaje": "0"
+    "puntaje": "93.33"
   },
   {
     "perfil": "candidato11",
     "aspecto": "Aspectos Académicos",
-    "puntaje": "0"
+    "puntaje": "24"
+  },
+  {
+    "perfil": "candidato11",
+    "aspecto": "Aspectos Profesionales",
+    "puntaje": "59.5"
+  },
+  {
+    "perfil": "candidato11",
+    "aspecto": "Proyección Humana E Idoneidad",
+    "puntaje": "9.83"
   },
   {
     "perfil": "candidato11",
     "aspecto": "Cualidades Éticas y de Probidad",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato11",
-    "aspecto": "Proyección Humana E Idoneidad",
-    "puntaje": "0"
+    "puntaje": "100"
   },
   {
     "perfil": "candidato11",
     "aspecto": "Total",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato12",
-    "aspecto": "Aspectos Profesionales",
-    "puntaje": "0"
+    "puntaje": "93.33"
   },
   {
     "perfil": "candidato12",
     "aspecto": "Aspectos Académicos",
-    "puntaje": "0"
+    "puntaje": "24"
+  },
+  {
+    "perfil": "candidato12",
+    "aspecto": "Aspectos Profesionales",
+    "puntaje": "59.5"
+  },
+  {
+    "perfil": "candidato12",
+    "aspecto": "Proyección Humana E Idoneidad",
+    "puntaje": "9.83"
   },
   {
     "perfil": "candidato12",
     "aspecto": "Cualidades Éticas y de Probidad",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato12",
-    "aspecto": "Proyección Humana E Idoneidad",
-    "puntaje": "0"
+    "puntaje": "100"
   },
   {
     "perfil": "candidato12",
     "aspecto": "Total",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato13",
-    "aspecto": "Aspectos Profesionales",
-    "puntaje": "0"
+    "puntaje": "93.33"
   },
   {
     "perfil": "candidato13",
     "aspecto": "Aspectos Académicos",
-    "puntaje": "0"
+    "puntaje": "24"
+  },
+  {
+    "perfil": "candidato13",
+    "aspecto": "Aspectos Profesionales",
+    "puntaje": "59.5"
+  },
+  {
+    "perfil": "candidato13",
+    "aspecto": "Proyección Humana E Idoneidad",
+    "puntaje": "9.83"
   },
   {
     "perfil": "candidato13",
     "aspecto": "Cualidades Éticas y de Probidad",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato13",
-    "aspecto": "Proyección Humana E Idoneidad",
-    "puntaje": "0"
+    "puntaje": "100"
   },
   {
     "perfil": "candidato13",
     "aspecto": "Total",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato14",
-    "aspecto": "Aspectos Profesionales",
-    "puntaje": "0"
+    "puntaje": "93.33"
   },
   {
     "perfil": "candidato14",
     "aspecto": "Aspectos Académicos",
-    "puntaje": "0"
+    "puntaje": "24"
+  },
+  {
+    "perfil": "candidato14",
+    "aspecto": "Aspectos Profesionales",
+    "puntaje": "59.5"
+  },
+  {
+    "perfil": "candidato14",
+    "aspecto": "Proyección Humana E Idoneidad",
+    "puntaje": "9.83"
   },
   {
     "perfil": "candidato14",
     "aspecto": "Cualidades Éticas y de Probidad",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato14",
-    "aspecto": "Proyección Humana E Idoneidad",
-    "puntaje": "0"
+    "puntaje": "100"
   },
   {
     "perfil": "candidato14",
     "aspecto": "Total",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato15",
-    "aspecto": "Aspectos Profesionales",
-    "puntaje": "0"
+    "puntaje": "93.33"
   },
   {
     "perfil": "candidato15",
     "aspecto": "Aspectos Académicos",
-    "puntaje": "0"
+    "puntaje": "24"
+  },
+  {
+    "perfil": "candidato15",
+    "aspecto": "Aspectos Profesionales",
+    "puntaje": "59.5"
+  },
+  {
+    "perfil": "candidato15",
+    "aspecto": "Proyección Humana E Idoneidad",
+    "puntaje": "9.83"
   },
   {
     "perfil": "candidato15",
     "aspecto": "Cualidades Éticas y de Probidad",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato15",
-    "aspecto": "Proyección Humana E Idoneidad",
-    "puntaje": "0"
+    "puntaje": "100"
   },
   {
     "perfil": "candidato15",
     "aspecto": "Total",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato16",
-    "aspecto": "Aspectos Profesionales",
-    "puntaje": "0"
+    "puntaje": "93.33"
   },
   {
     "perfil": "candidato16",
     "aspecto": "Aspectos Académicos",
-    "puntaje": "0"
+    "puntaje": "24"
+  },
+  {
+    "perfil": "candidato16",
+    "aspecto": "Aspectos Profesionales",
+    "puntaje": "59.5"
+  },
+  {
+    "perfil": "candidato16",
+    "aspecto": "Proyección Humana E Idoneidad",
+    "puntaje": "9.83"
   },
   {
     "perfil": "candidato16",
     "aspecto": "Cualidades Éticas y de Probidad",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato16",
-    "aspecto": "Proyección Humana E Idoneidad",
-    "puntaje": "0"
+    "puntaje": "100"
   },
   {
     "perfil": "candidato16",
     "aspecto": "Total",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato17",
-    "aspecto": "Aspectos Profesionales",
-    "puntaje": "0"
+    "puntaje": "93.33"
   },
   {
     "perfil": "candidato17",
     "aspecto": "Aspectos Académicos",
-    "puntaje": "0"
+    "puntaje": "24"
+  },
+  {
+    "perfil": "candidato17",
+    "aspecto": "Aspectos Profesionales",
+    "puntaje": "59.5"
+  },
+  {
+    "perfil": "candidato17",
+    "aspecto": "Proyección Humana E Idoneidad",
+    "puntaje": "9.83"
   },
   {
     "perfil": "candidato17",
     "aspecto": "Cualidades Éticas y de Probidad",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato17",
-    "aspecto": "Proyección Humana E Idoneidad",
-    "puntaje": "0"
+    "puntaje": "100"
   },
   {
     "perfil": "candidato17",
     "aspecto": "Total",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato18",
-    "aspecto": "Aspectos Profesionales",
-    "puntaje": "0"
+    "puntaje": "93.33"
   },
   {
     "perfil": "candidato18",
     "aspecto": "Aspectos Académicos",
-    "puntaje": "0"
+    "puntaje": "24"
+  },
+  {
+    "perfil": "candidato18",
+    "aspecto": "Aspectos Profesionales",
+    "puntaje": "59.5"
+  },
+  {
+    "perfil": "candidato18",
+    "aspecto": "Proyección Humana E Idoneidad",
+    "puntaje": "9.83"
   },
   {
     "perfil": "candidato18",
     "aspecto": "Cualidades Éticas y de Probidad",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato18",
-    "aspecto": "Proyección Humana E Idoneidad",
-    "puntaje": "0"
+    "puntaje": "100"
   },
   {
     "perfil": "candidato18",
     "aspecto": "Total",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato19",
-    "aspecto": "Aspectos Profesionales",
-    "puntaje": "0"
+    "puntaje": "93.33"
   },
   {
     "perfil": "candidato19",
     "aspecto": "Aspectos Académicos",
-    "puntaje": "0"
+    "puntaje": "24"
+  },
+  {
+    "perfil": "candidato19",
+    "aspecto": "Aspectos Profesionales",
+    "puntaje": "59.5"
+  },
+  {
+    "perfil": "candidato19",
+    "aspecto": "Proyección Humana E Idoneidad",
+    "puntaje": "9.83"
   },
   {
     "perfil": "candidato19",
     "aspecto": "Cualidades Éticas y de Probidad",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato19",
-    "aspecto": "Proyección Humana E Idoneidad",
-    "puntaje": "0"
+    "puntaje": "100"
   },
   {
     "perfil": "candidato19",
     "aspecto": "Total",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato20",
-    "aspecto": "Aspectos Profesionales",
-    "puntaje": "0"
+    "puntaje": "93.33"
   },
   {
     "perfil": "candidato20",
     "aspecto": "Aspectos Académicos",
-    "puntaje": "0"
+    "puntaje": "24"
+  },
+  {
+    "perfil": "candidato20",
+    "aspecto": "Aspectos Profesionales",
+    "puntaje": "59.5"
+  },
+  {
+    "perfil": "candidato20",
+    "aspecto": "Proyección Humana E Idoneidad",
+    "puntaje": "9.83"
   },
   {
     "perfil": "candidato20",
     "aspecto": "Cualidades Éticas y de Probidad",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato20",
-    "aspecto": "Proyección Humana E Idoneidad",
-    "puntaje": "0"
+    "puntaje": "100"
   },
   {
     "perfil": "candidato20",
     "aspecto": "Total",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato21",
-    "aspecto": "Aspectos Profesionales",
-    "puntaje": "0"
+    "puntaje": "93.33"
   },
   {
     "perfil": "candidato21",
     "aspecto": "Aspectos Académicos",
-    "puntaje": "0"
+    "puntaje": "24"
+  },
+  {
+    "perfil": "candidato21",
+    "aspecto": "Aspectos Profesionales",
+    "puntaje": "59.5"
+  },
+  {
+    "perfil": "candidato21",
+    "aspecto": "Proyección Humana E Idoneidad",
+    "puntaje": "9.83"
   },
   {
     "perfil": "candidato21",
     "aspecto": "Cualidades Éticas y de Probidad",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato21",
-    "aspecto": "Proyección Humana E Idoneidad",
-    "puntaje": "0"
+    "puntaje": "100"
   },
   {
     "perfil": "candidato21",
     "aspecto": "Total",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato22",
-    "aspecto": "Aspectos Profesionales",
-    "puntaje": "0"
+    "puntaje": "93.33"
   },
   {
     "perfil": "candidato22",
     "aspecto": "Aspectos Académicos",
-    "puntaje": "0"
+    "puntaje": "24"
+  },
+  {
+    "perfil": "candidato22",
+    "aspecto": "Aspectos Profesionales",
+    "puntaje": "59.5"
+  },
+  {
+    "perfil": "candidato22",
+    "aspecto": "Proyección Humana E Idoneidad",
+    "puntaje": "9.83"
   },
   {
     "perfil": "candidato22",
     "aspecto": "Cualidades Éticas y de Probidad",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato22",
-    "aspecto": "Proyección Humana E Idoneidad",
-    "puntaje": "0"
+    "puntaje": "100"
   },
   {
     "perfil": "candidato22",
     "aspecto": "Total",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato23",
-    "aspecto": "Aspectos Profesionales",
-    "puntaje": "0"
+    "puntaje": "93.33"
   },
   {
     "perfil": "candidato23",
     "aspecto": "Aspectos Académicos",
-    "puntaje": "0"
+    "puntaje": "24"
+  },
+  {
+    "perfil": "candidato23",
+    "aspecto": "Aspectos Profesionales",
+    "puntaje": "59.5"
+  },
+  {
+    "perfil": "candidato23",
+    "aspecto": "Proyección Humana E Idoneidad",
+    "puntaje": "9.83"
   },
   {
     "perfil": "candidato23",
     "aspecto": "Cualidades Éticas y de Probidad",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato23",
-    "aspecto": "Proyección Humana E Idoneidad",
-    "puntaje": "0"
+    "puntaje": "100"
   },
   {
     "perfil": "candidato23",
     "aspecto": "Total",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato24",
-    "aspecto": "Aspectos Profesionales",
-    "puntaje": "0"
+    "puntaje": "93.33"
   },
   {
     "perfil": "candidato24",
     "aspecto": "Aspectos Académicos",
-    "puntaje": "0"
+    "puntaje": "24"
+  },
+  {
+    "perfil": "candidato24",
+    "aspecto": "Aspectos Profesionales",
+    "puntaje": "59.5"
+  },
+  {
+    "perfil": "candidato24",
+    "aspecto": "Proyección Humana E Idoneidad",
+    "puntaje": "9.83"
   },
   {
     "perfil": "candidato24",
     "aspecto": "Cualidades Éticas y de Probidad",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato24",
-    "aspecto": "Proyección Humana E Idoneidad",
-    "puntaje": "0"
+    "puntaje": "100"
   },
   {
     "perfil": "candidato24",
     "aspecto": "Total",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato25",
-    "aspecto": "Aspectos Profesionales",
-    "puntaje": "0"
+    "puntaje": "93.33"
   },
   {
     "perfil": "candidato25",
     "aspecto": "Aspectos Académicos",
-    "puntaje": "0"
+    "puntaje": "24"
+  },
+  {
+    "perfil": "candidato25",
+    "aspecto": "Aspectos Profesionales",
+    "puntaje": "59.5"
+  },
+  {
+    "perfil": "candidato25",
+    "aspecto": "Proyección Humana E Idoneidad",
+    "puntaje": "9.83"
   },
   {
     "perfil": "candidato25",
     "aspecto": "Cualidades Éticas y de Probidad",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato25",
-    "aspecto": "Proyección Humana E Idoneidad",
-    "puntaje": "0"
+    "puntaje": "100"
   },
   {
     "perfil": "candidato25",
     "aspecto": "Total",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato26",
-    "aspecto": "Aspectos Profesionales",
-    "puntaje": "0"
+    "puntaje": "93.33"
   },
   {
     "perfil": "candidato26",
     "aspecto": "Aspectos Académicos",
-    "puntaje": "0"
+    "puntaje": "24"
+  },
+  {
+    "perfil": "candidato26",
+    "aspecto": "Aspectos Profesionales",
+    "puntaje": "59.5"
+  },
+  {
+    "perfil": "candidato26",
+    "aspecto": "Proyección Humana E Idoneidad",
+    "puntaje": "9.83"
   },
   {
     "perfil": "candidato26",
     "aspecto": "Cualidades Éticas y de Probidad",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato26",
-    "aspecto": "Proyección Humana E Idoneidad",
-    "puntaje": "0"
+    "puntaje": "100"
   },
   {
     "perfil": "candidato26",
     "aspecto": "Total",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato27",
-    "aspecto": "Aspectos Profesionales",
-    "puntaje": "0"
+    "puntaje": "93.33"
   },
   {
     "perfil": "candidato27",
     "aspecto": "Aspectos Académicos",
-    "puntaje": "0"
+    "puntaje": "24"
+  },
+  {
+    "perfil": "candidato27",
+    "aspecto": "Aspectos Profesionales",
+    "puntaje": "59.5"
+  },
+  {
+    "perfil": "candidato27",
+    "aspecto": "Proyección Humana E Idoneidad",
+    "puntaje": "9.83"
   },
   {
     "perfil": "candidato27",
     "aspecto": "Cualidades Éticas y de Probidad",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato27",
-    "aspecto": "Proyección Humana E Idoneidad",
-    "puntaje": "0"
+    "puntaje": "100"
   },
   {
     "perfil": "candidato27",
     "aspecto": "Total",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato28",
-    "aspecto": "Aspectos Profesionales",
-    "puntaje": "0"
+    "puntaje": "93.33"
   },
   {
     "perfil": "candidato28",
     "aspecto": "Aspectos Académicos",
-    "puntaje": "0"
+    "puntaje": "24"
+  },
+  {
+    "perfil": "candidato28",
+    "aspecto": "Aspectos Profesionales",
+    "puntaje": "59.5"
+  },
+  {
+    "perfil": "candidato28",
+    "aspecto": "Proyección Humana E Idoneidad",
+    "puntaje": "9.83"
   },
   {
     "perfil": "candidato28",
     "aspecto": "Cualidades Éticas y de Probidad",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato28",
-    "aspecto": "Proyección Humana E Idoneidad",
-    "puntaje": "0"
+    "puntaje": "100"
   },
   {
     "perfil": "candidato28",
     "aspecto": "Total",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato29",
-    "aspecto": "Aspectos Profesionales",
-    "puntaje": "0"
+    "puntaje": "93.33"
   },
   {
     "perfil": "candidato29",
     "aspecto": "Aspectos Académicos",
-    "puntaje": "0"
+    "puntaje": "24"
   },
   {
     "perfil": "candidato29",
-    "aspecto": "Cualidades Éticas y de Probidad",
-    "puntaje": "0"
+    "aspecto": "Aspectos Profesionales",
+    "puntaje": "59.5"
   },
   {
     "perfil": "candidato29",
     "aspecto": "Proyección Humana E Idoneidad",
-    "puntaje": "0"
+    "puntaje": "9.83"
+  },
+  {
+    "perfil": "candidato29",
+    "aspecto": "Cualidades Éticas y de Probidad",
+    "puntaje": "100"
   },
   {
     "perfil": "candidato29",
     "aspecto": "Total",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato30",
-    "aspecto": "Aspectos Profesionales",
-    "puntaje": "0"
+    "puntaje": "93.33"
   },
   {
     "perfil": "candidato30",
     "aspecto": "Aspectos Académicos",
-    "puntaje": "0"
+    "puntaje": "24"
   },
   {
     "perfil": "candidato30",
-    "aspecto": "Cualidades Éticas y de Probidad",
-    "puntaje": "0"
+    "aspecto": "Aspectos Profesionales",
+    "puntaje": "59.5"
   },
   {
     "perfil": "candidato30",
     "aspecto": "Proyección Humana E Idoneidad",
-    "puntaje": "0"
+    "puntaje": "9.83"
+  },
+  {
+    "perfil": "candidato30",
+    "aspecto": "Cualidades Éticas y de Probidad",
+    "puntaje": "100"
   },
   {
     "perfil": "candidato30",
     "aspecto": "Total",
-    "puntaje": "0"
-  },
-  {
-    "perfil": "candidato31",
-    "aspecto": "Aspectos Profesionales",
-    "puntaje": "0"
+    "puntaje": "93.33"
   },
   {
     "perfil": "candidato31",
     "aspecto": "Aspectos Académicos",
-    "puntaje": "0"
+    "puntaje": "24"
   },
   {
     "perfil": "candidato31",
-    "aspecto": "Cualidades Éticas y de Probidad",
-    "puntaje": "0"
+    "aspecto": "Aspectos Profesionales",
+    "puntaje": "59.5"
   },
   {
     "perfil": "candidato31",
     "aspecto": "Proyección Humana E Idoneidad",
-    "puntaje": "0"
+    "puntaje": "9.83"
+  },
+  {
+    "perfil": "candidato31",
+    "aspecto": "Cualidades Éticas y de Probidad",
+    "puntaje": "100"
   },
   {
     "perfil": "candidato31",
     "aspecto": "Total",
-    "puntaje": "0"
+    "puntaje": "93.33"
   }
 ]

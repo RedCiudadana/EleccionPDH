@@ -144,24 +144,6 @@
     "cssClasses": "danger"
   },
   {
-    "perfil": "candidato8",
-    "nombreDocumento": "CV (PDF)",
-    "urlDocumento": "",
-    "cssClasses": "success"
-  },
-  {
-    "perfil": "candidato8",
-    "nombreDocumento": "Tabla de gradación (CSV)",
-    "urlDocumento": "https://github.com/RedCiudadana/Recursos-PDH/raw/master/Documentacion/Candidatos/Gradacion.csv",
-    "cssClasses": "warning"
-  },
-  {
-    "perfil": "candidato9",
-    "nombreDocumento": "Expediente (ZIP)",
-    "urlDocumento": "https://raw.githubusercontent.com/RedCiudadana/Recursos-PDH/master/Documentacion/Candidatos.zip",
-    "cssClasses": "danger"
-  },
-  {
     "perfil": "candidato9",
     "nombreDocumento": "CV (PDF)",
     "urlDocumento": "",
@@ -175,24 +157,6 @@
   },
   {
     "perfil": "candidato9",
-    "nombreDocumento": "Expediente (ZIP)",
-    "urlDocumento": "https://raw.githubusercontent.com/RedCiudadana/Recursos-PDH/master/Documentacion/Candidatos.zip",
-    "cssClasses": "danger"
-  },
-  {
-    "perfil": "candidato9",
-    "nombreDocumento": "CV (PDF)",
-    "urlDocumento": "",
-    "cssClasses": "success"
-  },
-  {
-    "perfil": "candidato10",
-    "nombreDocumento": "Tabla de gradación (CSV)",
-    "urlDocumento": "https://github.com/RedCiudadana/Recursos-PDH/raw/master/Documentacion/Candidatos/Gradacion.csv",
-    "cssClasses": "warning"
-  },
-  {
-    "perfil": "candidato10",
     "nombreDocumento": "Expediente (ZIP)",
     "urlDocumento": "https://raw.githubusercontent.com/RedCiudadana/Recursos-PDH/master/Documentacion/Candidatos.zip",
     "cssClasses": "danger"

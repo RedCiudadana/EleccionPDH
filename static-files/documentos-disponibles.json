@@ -164,7 +164,7 @@
   {
     "perfil": "candidato10",
     "nombreDocumento": "CV (PDF)",
-    "urlDocumento": "http://recursos.eleccionpdh.org/Documentacion/Terna/Expediente%20Augusto%20Jord%C3%A1n%20Rodas%20Andrade.pdf",
+    "urlDocumento": "",
     "cssClasses": "success"
   },
   {
@@ -218,7 +218,7 @@
   {
     "perfil": "candidato13",
     "nombreDocumento": "CV (PDF)",
-    "urlDocumento": "",
+    "urlDocumento": "http://recursos.eleccionpdh.org/Documentacion/Terna/EXPEDIENTE%20COMPLETO%20CLAUDIA%20MARIA%20LOPEZ%20DAVID.pdf",
     "cssClasses": "success"
   },
   {

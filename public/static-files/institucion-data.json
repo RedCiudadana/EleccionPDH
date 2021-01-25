@@ -5,7 +5,7 @@
   },
   {
     "key": "fotoInstitucion",
-    "value": "http://d3ustg7s7bf7i9.cloudfront.net/mmediafiles/pl/6f/6fe08567-c59a-4292-b7f2-dd11779e8c36_879_586.jpg"
+    "value": "https://d3ustg7s7bf7i9.cloudfront.net/mmediafiles/pl/6f/6fe08567-c59a-4292-b7f2-dd11779e8c36_879_586.jpg"
   },
   {
     "key": "logoInstitucion",
@@ -45,7 +45,7 @@
   },
   {
     "key": "sitioWeb",
-    "value": "<a href=\"http://www.pdh.org.gt/\" target=\"_blank\">http://www.pdh.org.gt/</a>"
+    "value": "<a href=\"https://www.pdh.org.gt/\" target=\"_blank\">https://www.pdh.org.gt/</a>"
   },
   {
     "key": "fechaFundacion",
